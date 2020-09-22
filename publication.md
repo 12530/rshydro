@@ -9,9 +9,9 @@ main_nav: true
 
 <hr>
 
-<h1 id="list_types">Peer-reviewed articles</h1>
+<h1 id="list_types">Peer-reviewed articles (* indicating corresponding author)</h1>
 
-<h3>2020</h3>
+<h4>2020</h4>
 <ul>
   <li>Xingxing Zhang, Liguang Jiang*, Cécile M. M. Kittel, Zhijun Yao, Karina Nielsen, Zhaofei Liu, Rui Wang, Jun Liu, Ole B. Andersen, Peter Bauer-Gottwein. “On the Performance of Sentinel‐3 Altimetry Over New Reservoirs: Approaches to Determine Onboard A Priori Elevation”. <a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020GL088770">Geophysical Research Letters</a>, 2020,47(17). DOI: <a href="https://www.doi.org/10.1029/2020GL088770">10.1029/2020GL088770</a></li>
   <li>Guoqing Zhang, Taodong Yao, Hongjie Xie, Kun Yang, Liping Zhu, C.K. Shum, Tobias Bolch, Shuang Yi, Simon Allen, Liguang Jiang, Wenfeng Chen, Changqing Ke. “Response of Tibetan Plateau’s lakes to climate changes: Trend, pattern, and mechanisms”. <a href="https://www.sciencedirect.com/science/article/pii/S0012825220303159">Earth-Science Reviews</a>, 2020, 208(103269). DOI: <a href="https://doi.org/10.1016/j.earscirev.2020.103269">10.1016/j.earscirev.2020.103269</a></li>
