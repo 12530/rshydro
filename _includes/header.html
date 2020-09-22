@@ -2,9 +2,7 @@
   <div class="navigation-wrapper">
     <a href="{{ site.baseurl }}/" class="logo">
       {% if site.logo %}
-      <img src="{{ site.logo | prepend: site.baseurl }}" alt="{{ site.title }}">
-      
-      <span>{{ site.title }}</span>
+      <img src="{{ site.logo | prepend: site.baseurl }}" alt="{{ site.title }}"><span style="color:blue;font-weight:bold">{{ site.title }}</span>
       {% endif %}
     </a>
     <a href="javascript:void(0)" class="navigation-menu-button" id="js-mobile-menu">
