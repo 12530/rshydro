@@ -20,9 +20,9 @@ main_nav: true
 
 <h3>2019</h3>
 <ul>
-  <li>Liguang Jiang*, Henrik Madsen, Peter Bauer-Gottwein. “Simultaneously Calibration of Multiple Hydrodynamic Model Parameters using Satellite Altimetry Observations of Water Surface Elevation in the Songhua River”. <p style="color:blue;">Remote Sensing of Environment</p>, 2019,225: 229-247. DOI: <a href="https://doi.org/10.1016/j.rse.2019.03.014">10.1016/j.rse.2019.03.014</a></ul>
-[6]	Liguang Jiang*, Peter Bauer-Gottwein. “How do GPM IMERG precipitation estimates perform as hydrological model forcing? Evaluation for 300 catchments across Mainland China”. Journal of Hydrology, 2019, 572: 486-500. DOI: 10.1016/j.jhydrol.2019.03.042 
-[7]	Liguang Jiang*, Ole Baltazar Andersen, Karina Nielsen, Guoqing Zhang, Peter Bauer-Gottwein. “Influence of local geoid variation on water surface elevation estimates derived from multi-mission altimetry for Lake Namco”. Remote Sensing of Environment, 2019, 211: 65-79. DOI: 10.1016/j.rse.2018.11.004 
+  <li>Liguang Jiang*, Henrik Madsen, Peter Bauer-Gottwein. “Simultaneously Calibration of Multiple Hydrodynamic Model Parameters using Satellite Altimetry Observations of Water Surface Elevation in the Songhua River”. Remote Sensing of Environment, 2019,225: 229-247. DOI: <a href="https://doi.org/10.1016/j.rse.2019.03.014">10.1016/j.rse.2019.03.014</a></li>
+<li>Liguang Jiang*, Peter Bauer-Gottwein. “How do GPM IMERG precipitation estimates perform as hydrological model forcing? Evaluation for 300 catchments across Mainland China”. Journal of Hydrology, 2019, 572: 486-500. DOI: <a href="https://doi.org/10.1016/j.jhydrol.2019.03.042">10.1016/j.jhydrol.2019.03.042</a></li>
+<li>Liguang Jiang*, Ole Baltazar Andersen, Karina Nielsen, Guoqing Zhang, Peter Bauer-Gottwein. “Influence of local geoid variation on water surface elevation estimates derived from multi-mission altimetry for Lake Namco”. Remote Sensing of Environment, 2019, 211: 65-79. DOI: <a href="https://www.sciencedirect.com/science/article/pii/S0034425718305054">10.1016/j.rse.2018.11.004</a></li>
 
   <li>List Item 2</li>
   <li>List Item 3</li>
