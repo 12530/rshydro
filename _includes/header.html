@@ -1,6 +1,12 @@
 <header class="navigation" role="banner">
   <div class="navigation-wrapper">
     <a href="{{ site.baseurl }}/" class="logo">
+			span {
+			height: 45px;
+			border: 1px solid #444;
+			display: table-cell;
+			vertical-align: middle;
+			}
       {% if site.logo %}
       <img src="{{ site.logo | prepend: site.baseurl }}" alt="{{ site.title }}"><span style="color:blue;font-weight:bold">{{ site.title }}</span>
       {% endif %}
