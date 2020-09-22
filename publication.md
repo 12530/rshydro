@@ -12,39 +12,29 @@ main_nav: true
 <h1 id="list_types">Peer-reviewed articles</h1>
 
 <h3>2020</h3>
-<ol>
-  <li>List Item 1</li>
-  <li>List Item 2</li>
-  <li>List Item 3</li>
-</ol>
-
-<h3>2019</h3>
-<ol>
-  <li>List Item 1</li>
-  <li>List Item 2</li>
-  <li>List Item 3</li>
-</ol>
-
-<h3>Unordered List</h3>
 <ul>
   <li>List Item 1</li>
   <li>List Item 2</li>
   <li>List Item 3</li>
 </ul>
 
-<h3>Ordered List with <code>.default</code> class</h3>
-<ol class="default">
-  <li>List Item 1</li>
+<h3>2019</h3>
+<ul>
+  <li>Liguang Jiang*, Henrik Madsen, Peter Bauer-Gottwein. “Simultaneously Calibration of Multiple Hydrodynamic Model Parameters using Satellite Altimetry Observations of Water Surface Elevation in the Songhua River”. <p style="color:blue;">Remote Sensing of Environment</p>, 2019,225: 229-247. DOI: <a href="https://doi.org/10.1016/j.rse.2019.03.014">10.1016/j.rse.2019.03.014</a></ul>
+[6]	Liguang Jiang*, Peter Bauer-Gottwein. “How do GPM IMERG precipitation estimates perform as hydrological model forcing? Evaluation for 300 catchments across Mainland China”. Journal of Hydrology, 2019, 572: 486-500. DOI: 10.1016/j.jhydrol.2019.03.042 
+[7]	Liguang Jiang*, Ole Baltazar Andersen, Karina Nielsen, Guoqing Zhang, Peter Bauer-Gottwein. “Influence of local geoid variation on water surface elevation estimates derived from multi-mission altimetry for Lake Namco”. Remote Sensing of Environment, 2019, 211: 65-79. DOI: 10.1016/j.rse.2018.11.004 
+
   <li>List Item 2</li>
   <li>List Item 3</li>
-</ol>
+</ul>
 
-<h3>Unordered List with <code>.default</code> class</h3>
-<ul class="default">
+<h3>2018</h3>
+<ul>
   <li>List Item 1</li>
   <li>List Item 2</li>
   <li>List Item 3</li>
 </ul>
+
 
 <hr>
 
