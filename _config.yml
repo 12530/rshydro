@@ -14,7 +14,7 @@ subtitle: Integrating Earth Observation with hydrologic-hydrodynamic models for 
 email: jiang08@gmail.com
 name: ljia
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Integrating EO with hydrology 
+
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
@@ -105,8 +105,6 @@ social:
     username: Liguang Jiang
     url: https://scholar.google.com/citations?user=U1VWFzoAAAAJ&hl=en
     share: true
-
-
 
 
 # Social sharing protocols
