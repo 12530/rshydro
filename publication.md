@@ -4,7 +4,7 @@ title: Publication
 permalink: /publication/
 main_nav: true
 ---
-
+![Peer-reviewed articles (* indicating corresponding author)]({{ site.baseurl }}/assets/publication-banner.jpg "Profile Picture"){:.profile}
 <p>Peer-reviewed articles (* indicating corresponding author)</p>
 
 <hr>
