@@ -100,13 +100,6 @@ social:
     desc: Fork me on GitHub
     share: false
 
-  - name: LinkedIn
-    icon: linkedin
-    username: Liguang Jiang
-    url: https://www.linkedin.com/pub/ben-centra/47/769/60a
-    desc: Connect with me on LinkedIn
-    share: true
-
   - name: Google Scholar
     icon: google-scholar
     username: Liguang Jiang
@@ -122,7 +115,7 @@ social:
 protocols:
     fb_image: "/assets/logo.png"
     fb_image_width: 410
-    fb_image_height: 165
+    fb_image_height: 170
     fb_image_type: "image/png"
 
 
