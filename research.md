@@ -4,8 +4,18 @@ title: Research
 permalink: /research/
 main_nav: true
 ---
+<fieldset>
+  <p><b>Major topics</b></p>
+  <ul>
+    <li>Exploiting the observing capabilities of EO for hydrology</li>
+    <li>Modeling catchment hydrological processes under the chaning environment</li>
+    <li>Monitoring regional/continental water resource variations</li>
+    <li>Simulating / forecasting river hydraulics</li>
+    <li>Advancing hydrologic/hydrodynamic modeling approaches</li>
+  </ul>
+</fieldset>
 
-<p>The purpose of this HTML is to demonstrate some research.</p>
+
 
 <hr>
 
