@@ -25,7 +25,7 @@ main_nav: true
 <img src="/assets/missions.jpg" alt="alti-mission" style="width:426px;height:372px;">
 
 <hr>
-<video width="649" height="360" controls>
+<video width="649" height="360" controls autoplay>
   <source src="/assets/2009_019_AR_EN.mp4" type="video/mp4">
 </video>
 <p> TBD, <a href="#" title="test link">test link</a> </p>
