@@ -50,7 +50,8 @@ main_nav: true
     <th>Table Header 1</th><th>Table Header 2</th><th>Table Header 3</th>
   </tr>
   <tr>
-    <td>Division 1<img src="/assets/missions.jpg" alt="alti-mission" style="width:200px;height:150px;"></td><td>Division 2</td><td>Division 3</td>
+    <td><img src="/assets/missions.jpg" alt="alti-mission" style="width:200px;height:150px;"> Division 1</td>
+    <td><img src="/assets/header_image.jpg" alt="alti-mission" style="width:200px;height:150px;"> Division 2</td><td>Division 3</td>
   </tr>
   <tr class="even">
     <td>Division 1</td><td>Division 2</td><td>Division 3</td>
