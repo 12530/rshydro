@@ -25,7 +25,7 @@ main_nav: true
 <img src="/assets/missions.jpg" alt="alti-mission" style="width:426px;height:372px;">
 
 <hr>
-<iframe width="649" height="360" src="https://www.youtube.com/embed/V7_43bsybYk?rel=0" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="649" height="360" "/assets/2009_019_AR_EN.mp4" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
 <p> TBD, <a href="#" title="test link">test link</a> </p>
 
 
