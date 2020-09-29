@@ -86,18 +86,11 @@ social:
     desc: Follow me on Twitter
     share: true
 
-  # - name: Facebook
-    # icon: facebook
-    # username: thebencentra
-    # url: ""
-    # desc: Friend me on Facebook
-    # share: true
-
   - name: ResearchGate
     icon: researchgate
     username: Liguang Jiang
     url: https://www.researchgate.net/profile/Liguang_Jiang
-    desc: Fork me on GitHub
+    desc: Follow me on ResearchGate
     share: false
 
   - name: Google Scholar
