@@ -91,7 +91,7 @@ social:
     username: Liguang Jiang
     url: https://www.researchgate.net/profile/Liguang_Jiang
     desc: Follow me on ResearchGate
-    share: false
+    share: true
 
   - name: Google Scholar
     icon: google
