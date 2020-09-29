@@ -94,7 +94,7 @@ social:
     share: true
 
   - name: Google Scholar
-    icon: google
+    icon: graduation-cap
     username: Liguang Jiang
     url: https://scholar.google.com/citations?user=U1VWFzoAAAAJ&hl=en
     desc: Follow me on Google Scholar
