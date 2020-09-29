@@ -30,7 +30,7 @@
           {% if social.url != "" %}
           <li>
             <a href="{{ social.url }}" title="{{ social.desc }}">
-              <i class="fa fa-{{ social.icon }}"></i>
+              {% if social.icon != researchgate %}<i class="fa fa-{{ social.icon }}"></i> {% else %} <i class="fab fa-{{ social.icon }}"></i> {% endif %}
               <span class="username">{% if social.username %}{{ social.username }}{% else %}{{ social.name }}{% endif %}</span>
             </a>
           </li>
