@@ -8,10 +8,10 @@ main_nav: true
   <p><b>Reserach focus</b></p>
   <ul>
     <li>Exploiting the observing capabilities of EO for hydrology</li>
-    <li>Modeling catchment hydrological processes under the chaning environment</li>
+    <li>Modeling catchment hydrological processes under the changing environment</li>
     <li>Monitoring regional/continental water resource variations</li>
-    <li>Simulating / forecasting river hydraulics</li>
     <li>Advancing hydrologic/hydrodynamic modeling approaches</li>
+    <li>Simulating / forecasting river hydraulics</li>
   </ul>
 </fieldset>
 
@@ -20,13 +20,9 @@ main_nav: true
 <hr>
 
 
-<h1 id="paragraph">Inland Water Altimetry</h1>
-
-<img src="/assets/missions.jpg" alt="alti-mission" style="width:426px;height:372px;">
-
-<hr>
-<video width="649" height="360" controls autoplay>
-  <source src="/assets/2009_019_AR_EN.mp4" type="video/mp4">
+<h1 id="paragraph">Satellite Altimetry</h1>
+  <video width="649" height="360" controls autoplay>
+    <source src="/assets/2009_019_AR_EN.mp4" type="video/mp4">
 </video>
 <p> TBD, <a href="#" title="test link">test link</a> </p>
 
@@ -35,7 +31,7 @@ main_nav: true
 <hr>
 
 <h1 id="list_types">Major Altimeters</h1>
-
+  <img src="/assets/missions.jpg" alt="alti-mission" style="width:426px;height:372px;">
 <p> TBD </p>
 
 
