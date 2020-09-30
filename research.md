@@ -24,7 +24,7 @@ main_nav: true
   <video width="649" height="360" controls autoplay>
     <source src="/assets/2009_019_AR_EN.mp4" type="video/mp4">
 </video>
-<p> {text-align: center;} Illustration of waveform, ground tracks, SAR vs LRM, etc. of Sentinel-6 altimeter (Video credits: ESA) </p>
+<p style="text-align: center;"> Illustration of waveform, ground tracks, SAR vs LRM, etc. of Sentinel-6 altimeter (Video credits: ESA) </p>
 
 
 
