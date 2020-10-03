@@ -37,6 +37,37 @@ main_nav: true
   <li>Jiang et al. (2017) “Monitoring recent lake level variations on the Tibetan Plateau using Cryosat-2 SARIn mode data”. Journal of Hydrology.</li>
 </ul>
 
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+
+<div class="row">
+  <div class="column" style="background-color:#aaa;">
+    <img src="/assets/S3Val.png" alt="Water monitoring with CryoSat-2" style="width:323px;height:257px;">
+  </div>
+  <div class="column" style="background-color:#bbb;">
+    <h2>Column 2</h2>
+    <p>Some text..</p>
+  </div>
+</div>
+
 <hr>
 <h3 id="paragraph">Altimetry data evaluation & validation</h3>
   <img src="/assets/S3Val.png" alt="Water monitoring with CryoSat-2" style="width:622px;height:494px;">
