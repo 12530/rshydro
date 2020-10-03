@@ -78,7 +78,7 @@ main_nav: true
 
 <hr>
 <h3 id="paragraph">Hydrological/hydrodynamic modeling</h3>
-  <img src="/assets/Flowchart.png" alt="Flowchart" >
+  <img src="/assets/Flowchart.png" alt="Flowchart" style="width:588px;height:606px;">
 
 <ul>
   <li>Jiang et al. (2020) “The value of distributed high-resolution UAV-borne observations of water surface elevation for river management and hydrodynamic modelling”. Remote Sensing. </li>
