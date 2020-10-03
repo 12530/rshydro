@@ -61,6 +61,7 @@ main_nav: true
 
 
 <hr>
+<h3 id="paragraph">Altimetry data evaluation & validation</h3>
 <div class="row">
   <div class="column">
     <img src="/assets/S3Val.png" alt="Sentinel-3 over rivers" style="width:300px;height:237px;">
@@ -75,11 +76,21 @@ main_nav: true
 </ul>
 
 
+<hr>
+<h3 id="paragraph">Hydrological/hydrodynamic modeling</h3>
+  <img src="/assets/FlowchartN.tif" alt="Flowchart" style="width:588px;height:606px;">
+
+<ul>
+  <li>Jiang et al. (2020) “The value of distributed high-resolution UAV-borne observations of water surface elevation for river management and hydrodynamic modelling”. Remote Sensing. </li>
+  <li>Zhang & Jiang et al. (2019) “Simultaneously Calibration of Multiple Hydrodynamic Model Parameters using Satellite Altimetry Observations of Water Surface Elevation in the Songhua River”. Remote Sensing of Environment. </li>
+  <li>Jiang & Bauer-Gottwein. (2019) “How do GPM IMERG precipitation estimates perform as hydrological model forcing? Evaluation for 300 catchments across Mainland China”. Journal of Hydrology.</li>
+</ul>
+
 
 
 <hr>
 
-
+/*
 <h1 id="tables">Tables</h1>
 
 <table cellspacing="0" cellpadding="0">
@@ -97,4 +108,4 @@ main_nav: true
     <td>Division 1</td><td>Division 2</td><td>Division 3</td>
   </tr>
 </table>
-
+*/
