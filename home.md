@@ -11,12 +11,11 @@ main_nav: true
 
 <br>
 
---<img src="/assets/ljia.jpg" alt="Taken in 2012 @ Ali, Tibetan Plateau" >
-![alt text]({{ site.baseurl }}/assets/ljia.JPG "Profile Picture"){:.profile}
+![alt text]({{ site.baseurl }}/assets/ljia.JPG "Taken in 2012 @ Ali, Tibetan Plateau"){:.profile}
 
 About me
 
 My research interests lie in the fileds of hydrology and remote sensing. I am particularly interested  in earth observations (EO) of key variables of the water cycle. How to exploit EO data to advance our knowledge of the hydrological processes, and to accurately monitoring flood and drought, etc.? I have studied lake level variations, river level retrieval, and simulating river hydrodynamics using these data. 
 
 I completed my PhD in September 2018 in the Department of Environmental Engineering at the Technical University of Demark (DTU). 
-Here at SUSTech, exploring the potentials offered by the big EO data for hydrological research is one of my focuses.     
+I will be starting an assistant professor position at SUSTech from March 2021. Exploring the potentials offered by the big EO data for hydrological research is one of my focuses.     
