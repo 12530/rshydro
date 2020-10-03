@@ -59,12 +59,11 @@ main_nav: true
 </style>
 
 <div class="row">
-  <div class="column" style="background-color:#aaa;">
-    <img src="/assets/S3Val.png" alt="Water monitoring with CryoSat-2" style="width:323px;height:257px;">
+  <div class="column">
+    <img src="/assets/S3Val.png" alt="Sentinel-3 over rivers" style="width:323px;height:257px;">
   </div>
   <div class="column" style="background-color:#bbb;">
-    <h2>Column 2</h2>
-    <p>Some text..</p>
+    <img src="/assets/S3Val.png" alt="Sentinel-3 open-loop mode" style="width:344px;height:225px;">
   </div>
 </div>
 
