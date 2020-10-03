@@ -82,7 +82,7 @@ main_nav: true
 
 <ul>
   <li>Jiang et al. (2020) “The value of distributed high-resolution UAV-borne observations of water surface elevation for river management and hydrodynamic modelling”. <b>Remote Sensing</b>. </li>
-  <li>Zhang & Jiang et al. (2019) “Simultaneously Calibration of Multiple Hydrodynamic Model Parameters using Satellite Altimetry Observations of Water Surface Elevation in the Songhua River”. <b>Remote Sensing of Environment></b>. </li>
+  <li>Jiang et al. (2019) “Simultaneously Calibration of Multiple Hydrodynamic Model Parameters using Satellite Altimetry Observations of Water Surface Elevation in the Songhua River”. <b>Remote Sensing of Environment</b>. </li>
   <li>Jiang & Bauer-Gottwein. (2019) “How do GPM IMERG precipitation estimates perform as hydrological model forcing? Evaluation for 300 catchments across Mainland China”. <b>Journal of Hydrology</b>.</li>
 </ul>
 
