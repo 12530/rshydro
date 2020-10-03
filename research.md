@@ -63,7 +63,7 @@ main_nav: true
     <img src="/assets/S3Val.png" alt="Sentinel-3 over rivers" style="width:323px;height:257px;">
   </div>
   <div class="column" style="background-color:#bbb;">
-    <img src="/assets/S3Val.png" alt="Sentinel-3 open-loop mode" style="width:344px;height:225px;">
+    <img src="/assets/S3Window.png" alt="Sentinel-3 open-loop mode" style="width:344px;height:225px;">
   </div>
 </div>
 
