@@ -11,7 +11,7 @@ main_nav: true
 
 <br>
 
-<img src="/assets/ljia.jpg" alt="Taken in 2012 @ Ali, Tibetan Plateau" width="562" height="375">
+<img src="/assets/ljia.jpg" alt="Taken in 2012 @ Ali, Tibetan Plateau" >
 
 About me
 
