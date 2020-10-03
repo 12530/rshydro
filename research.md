@@ -31,7 +31,7 @@ main_nav: true
 <hr>
 
 <h3 id="list_types">Monitoring surface water</h3>
-  <img src="/assets/ChinaLake.png" alt="Water monitoring with CryoSat-2" style="width:1634px;height:763px;">
+  <img src="/assets/ChinaLake.png" alt="Water monitoring with CryoSat-2" style="width:961px;height:449px;">
 <p> TBD </p>
 
 
