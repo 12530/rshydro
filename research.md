@@ -90,7 +90,7 @@ main_nav: true
 
 <hr>
 
-/*
+<!--
 <h1 id="tables">Tables</h1>
 
 <table cellspacing="0" cellpadding="0">
@@ -108,4 +108,4 @@ main_nav: true
     <td>Division 1</td><td>Division 2</td><td>Division 3</td>
   </tr>
 </table>
-*/
+-->
