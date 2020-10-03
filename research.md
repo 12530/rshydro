@@ -20,7 +20,7 @@ main_nav: true
 <hr>
 
 
-<h1 id="paragraph">Satellite Altimetry</h1>
+<h3 id="paragraph">Satellite Altimetry</h3>
   <video width="649" height="360" controls autoplay>
     <source src="/assets/2009_019_AR_EN.mp4" type="video/mp4">
 </video>
@@ -30,8 +30,8 @@ main_nav: true
 
 <hr>
 
-<h1 id="list_types">Major Altimeters</h1>
-  <img src="/assets/missions.jpg" alt="alti-mission" style="width:426px;height:372px;">
+<h3 id="list_types">Monitoring surface water</h3>
+  <img src="/assets/ChinaLake.png" alt="Water monitoring with CryoSat-2" style="width:1634px;height:763px;">
 <p> TBD </p>
 
 
