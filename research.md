@@ -58,18 +58,17 @@ main_nav: true
 }
 </style>
 
-<div class="row">
-  <div class="column">
-    <img src="/assets/S3Val.png" alt="Sentinel-3 over rivers" style="width:323px;height:257px;">
-  </div>
-  <div class="column">
-    <img src="/assets/S3Window.png" alt="Sentinel-3 open-loop mode" style="width:344px;height:225px;">
-  </div>
-</div>
+
 
 <hr>
-<h3 id="paragraph">Altimetry data evaluation & validation</h3>
-  <img src="/assets/S3Val.png" alt="Water monitoring with CryoSat-2" style="width:622px;height:494px;">
+<div class="row">
+  <div class="column">
+    <img src="/assets/S3Val.png" alt="Sentinel-3 over rivers" style="width:300px;height:237px;">
+  </div>
+  <div class="column">
+    <img src="/assets/S3Window.png" alt="Sentinel-3 open-loop mode" style="width:400px;height:236px;">
+  </div>
+</div>
 <ul>
   <li>Jiang et al. (2020) “Evaluation of Sentinel-3 SRAL SAR altimetry over Chinese rivers”. Remote Sensing of Environment.</li>
   <li>Zhang & Jiang et al. (2020) “On the Performance of Sentinel‐3 Altimetry Over New Reservoirs: Approaches to Determine Onboard A Priori Elevation”. Geophysical Research Letters. </li>
