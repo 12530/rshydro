@@ -33,8 +33,8 @@ main_nav: true
 <h3 id="paragraph">Monitoring surface water</h3>
   <img src="/assets/ChinaLake.png" alt="Water monitoring with CryoSat-2" style="width:653px;height:305px;">
 <ul>
-  <li>Jiang et al. (2017) “CryoSat-2 radar altimetry for monitoring freshwater resources of China”. Remote Sensing of Environment.</li>
-  <li>Jiang et al. (2017) “Monitoring recent lake level variations on the Tibetan Plateau using Cryosat-2 SARIn mode data”. Journal of Hydrology.</li>
+  <li>Jiang et al. (2017) “CryoSat-2 radar altimetry for monitoring freshwater resources of China”. <b>Remote Sensing of Environment</b>.</li>
+  <li>Jiang et al. (2017) “Monitoring recent lake level variations on the Tibetan Plateau using Cryosat-2 SARIn mode data”. <b>Journal of Hydrology</b>.</li>
 </ul>
 
 <style>
@@ -72,7 +72,7 @@ main_nav: true
 </div>
 <ul>
   <li>Jiang et al. (2020) “Evaluation of Sentinel-3 SRAL SAR altimetry over Chinese rivers”. <b>Remote Sensing of Environment</b>.</li>
-  <li>Zhang & Jiang et al. (2020) “On the Performance of Sentinel‐3 Altimetry Over New Reservoirs: Approaches to Determine Onboard A Priori Elevation”. Geophysical Research Letters. </li>
+  <li>Zhang & Jiang et al. (2020) “On the Performance of Sentinel‐3 Altimetry Over New Reservoirs: Approaches to Determine Onboard A Priori Elevation”. <b>Geophysical Research Letters</b>. </li>
 </ul>
 
 
@@ -81,9 +81,9 @@ main_nav: true
   <img src="/assets/Flowchart.png" alt="Flowchart" style="width:519px;height:535px;">
 
 <ul>
-  <li>Jiang et al. (2020) “The value of distributed high-resolution UAV-borne observations of water surface elevation for river management and hydrodynamic modelling”. Remote Sensing. </li>
-  <li>Zhang & Jiang et al. (2019) “Simultaneously Calibration of Multiple Hydrodynamic Model Parameters using Satellite Altimetry Observations of Water Surface Elevation in the Songhua River”. Remote Sensing of Environment. </li>
-  <li>Jiang & Bauer-Gottwein. (2019) “How do GPM IMERG precipitation estimates perform as hydrological model forcing? Evaluation for 300 catchments across Mainland China”. Journal of Hydrology.</li>
+  <li>Jiang et al. (2020) “The value of distributed high-resolution UAV-borne observations of water surface elevation for river management and hydrodynamic modelling”. <b>Remote Sensing</b>. </li>
+  <li>Zhang & Jiang et al. (2019) “Simultaneously Calibration of Multiple Hydrodynamic Model Parameters using Satellite Altimetry Observations of Water Surface Elevation in the Songhua River”. <b>Remote Sensing of Environment></b>. </li>
+  <li>Jiang & Bauer-Gottwein. (2019) “How do GPM IMERG precipitation estimates perform as hydrological model forcing? Evaluation for 300 catchments across Mainland China”. <b>Journal of Hydrology</b>.</li>
 </ul>
 
 
