@@ -11,7 +11,8 @@ main_nav: true
 
 <br>
 
-<img src="/assets/ljia.jpg" alt="Taken in 2012 @ Ali, Tibetan Plateau" >
+--<img src="/assets/ljia.jpg" alt="Taken in 2012 @ Ali, Tibetan Plateau" >
+![alt text]({{ site.baseurl }}/assets/ljia.JPG "Profile Picture"){:.profile}
 
 About me
 
