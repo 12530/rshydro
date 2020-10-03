@@ -15,7 +15,7 @@ main_nav: true
 
 <h4>About Me</h4>
 
-My research interests lie in the fileds of hydrology and remote sensing. I am particularly interested  in earth observations (EO) of key variables of the water cycle. How to exploit EO data to advance our knowledge of the hydrological processes, and to accurately monitoring flood and drought, etc.? I have studied lake level variations, river level retrieval, and simulating river hydrodynamics using these data. 
+My research interests lie in the fileds of hydrology and remote sensing. I am particularly interested  in earth observations (EO) of key variables of the water cycle. How to exploit EO data to advance our knowledge of the hydrological processes, and to accurately monitoring flood and drought, etc. has always driven me forward. I have studied lake level variations, river level retrieval, and simulating river hydrodynamics using these data. 
 
 I completed my PhD in September 2018 in the Department of Environmental Engineering at the Technical University of Demark (DTU). 
 I will be starting an assistant professor position at SUSTech from March 2021. Exploring the potentials offered by the big EO data for hydrological research is one of my focuses.     
