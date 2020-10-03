@@ -71,7 +71,7 @@ main_nav: true
   </div>
 </div>
 <ul>
-  <li>Jiang et al. (2020) “Evaluation of Sentinel-3 SRAL SAR altimetry over Chinese rivers”. Remote Sensing of Environment.</li>
+  <li>Jiang et al. (2020) “Evaluation of Sentinel-3 SRAL SAR altimetry over Chinese rivers”. <b>Remote Sensing of Environment</b>.</li>
   <li>Zhang & Jiang et al. (2020) “On the Performance of Sentinel‐3 Altimetry Over New Reservoirs: Approaches to Determine Onboard A Priori Elevation”. Geophysical Research Letters. </li>
 </ul>
 
