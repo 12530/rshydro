@@ -11,7 +11,7 @@ main_nav: true
 
 <br>
 
-(/assets/ljia.jpg "Profile Picture"){:.profile}
+<img src="/assets/ljia.jpg" alt="Taken in 2012 @ Ali, Tibetan Plateau" width="562" height="375">
 
 About me
 
