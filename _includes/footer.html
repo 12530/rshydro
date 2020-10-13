@@ -30,7 +30,7 @@
           {% if social.url != "" %}
           <li>
             <a href="{{ social.url }}" title="{{ social.desc }}">
-              {% if social.icon != researchgate %}<i class="fa fa-{{ social.icon }}"></i> {% else %} <i class="ai ai-researchgate ai-lg" style="vertical-align:10%;color:red;"></i>{% endif %}
+              {% if social.icon != researchgate %}<i class="fa fa-{{ social.icon }}"></i> {% else %} <i class="ai ai-researchgate ai-lg" style="vertical-align:10%;"></i>{% endif %}
               <span class="username">{% if social.username %}{{ social.username }}{% else %}{{ social.name }}{% endif %}</span>
             </a>
           </li>
