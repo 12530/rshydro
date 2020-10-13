@@ -87,7 +87,7 @@ social:
     share: true
 
   - name: ResearchGate
-    icon: researchgate
+    icon: researchGate
     username: Liguang Jiang
     url: https://www.researchgate.net/profile/Liguang_Jiang
     desc: Follow me on ResearchGate
