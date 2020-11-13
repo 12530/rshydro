@@ -5,7 +5,7 @@ date:   2020-11-13
 author: ljia
 categories: 招生
 tags:	招生
-cover:  "/assets/instacode.png"
+cover:  "/assets/Enrollment-web-header.png"
 ---
 
 ## 南方科技大学环境学院姜丽光课题组 招收2021级硕士和博士生
