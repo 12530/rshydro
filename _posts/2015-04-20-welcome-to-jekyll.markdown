@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "招收2021级硕士和博士生"
-date:   020-11-13
+date:   2020-11-13
 author: ljia
 categories: 招生
 tags:	招生
