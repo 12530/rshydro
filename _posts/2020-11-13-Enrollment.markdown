@@ -11,7 +11,7 @@ cover:  "/assets/Enrollment-web-header.png"
 ## 南方科技大学环境学院姜丽光课题组 招收2021级硕士和博士生
 
 南方科技大学是国家高等教育综合改革试验校，突出“创知、创新、创业”的办学特色，目标是建成国际化高水平研究型大学。本着有利于拔尖创新人才选拔，有利于公平、公正的原则，我校博士生招生全面实行“申请-考核”制。学校为硕士/博士研究生提供了丰厚的奖学金（博士生每年10万元奖学金）、优越的住宿条件（独立单人间）和一流的科研实验条件（与国际交流机会多）。
-2021年南方科技大学博士生招生报考通知请参见 https://gs.sustech.edu.cn/boshi2021/1879
+2021年南方科技大学博士生招生报考通知请参见 <a href="https://gs.sustech.edu.cn/boshi2021/1879">https://gs.sustech.edu.cn/boshi2021/1879</a>
 
 ### 南方科技大学环境学院 遥感水文学 课题组简介
 课题组由姜丽光助理教授负责。课题组负责人已发表SCI论文20余篇，其中一作/通讯共14篇，主要发表在Remote Sensing of Environment（4 篇），Geophysical Research Letters，Journal of Hydrology, Journal of Geophysical Research – Atmospheres 等。详细信息请参见 https://rshydro.org 该课题组与丹麦技术大学（DTU）、丹麦水力学研究所（DHI）、丹麦空间研究所（DTU Space）、法国国家空间中心（CNES）、中科院地理所、武汉大学等国内外知名机构有广泛的合作。课题组支持硕/博士生在读期间进行国际交流；毕业后推荐前往海外深造。
