@@ -1,92 +1,26 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2015-04-20 08:43:59
-author: Ben Centra
-categories: Jekyll
-tags:	jekyll welcome
+title:  "招收2021级硕士和博士生"
+date:   020-11-13
+author: ljia
+categories: 招生
+tags:	招生
 cover:  "/assets/instacode.png"
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+南方科技大学环境学院姜丽光课题组 招收2021级硕士和博士生
+南方科技大学是国家高等教育综合改革试验校，突出“创知、创新、创业”的办学特色，目标是建成国际化高水平研究型大学。本着有利于拔尖创新人才选拔，有利于公平、公正的原则，我校博士生招生全面实行“申请-考核”制。学校为硕士/博士研究生提供了丰厚的奖学金（博士生每年10万元奖学金）、优越的住宿条件（独立单人间）和一流的科研实验条件（与国际交流机会多）。
+2021年南方科技大学博士生招生报考通知请参见 https://gs.sustech.edu.cn/boshi2021/1879
+南方科技大学环境学院 遥感水文学 课题组由姜丽光助理教授负责。课题组负责人已发表SCI论文20余篇，其中一作/通讯共14篇，主要发表在Remote Sensing of Environment（4 篇），Geophysical Research Letters，Journal of Hydrology, Journal of Geophysical Research – Atmospheres 等。详细信息请参见 https://rshydro.org 该课题组与丹麦技术大学（DTU）、丹麦水力学研究所（DHI）、丹麦空间研究所（DTU Space）、法国国家空间中心（CNES）、中科院地理所、武汉大学等国内外知名机构有广泛的合作。课题组支持硕/博士生在读期间进行国际交流；毕业后推荐前往海外深造。
+重点开展对地观测（Earth Observation, EO）在水文和水资源领域的理论和应用研究。主要应用卫星测高（altimetry）、卫星影像（imagery）、重力测量（gravimetry）等遥感数据，并结合水文模型/水动力模型等技术手段，开展地表水体（江、河、湖、库等）动态变化监测、分析、模拟和预报等。
+主要研究内容有以下：
+1）遥感卫星测高数据处理与应用.
+2)  基于UAV的河道形态/水文变量测量.
+3）无河道断面形态条件下的水动力模拟.
+4）资料稀缺地区，流域分类和模型参数化研究.
+5）基于多目标的水文、水动力模型校正。
 
-## Adding New Posts
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-### Tags and Categories
-
-If you list one or more categories or tags in the front matter of your post, they will be included with the post on the page as links. Clicking the link will bring you to an auto-generated archive page for the category or tag, created using the [jekyll-archive][jekyll-archive] gem.
-
-### Cover Images
-
-To add a cover image to your post, set the "cover" property in the front matter with the relative URL of the image (i.e. <code>cover: "/assets/cover_image.jpg"</code>).
-
-### Code Snippets
-
-You can use [highlight.js][highlight] to add syntax highlight code snippets:
-
-Use the [Liquid][liquid] `{% raw %}{% highlight <language> %}{% endraw %}` tag to add syntax highlighting to code snippets.
-
-For instance, this template...
-{% highlight html %}
-{% raw %}{% highlight javascript %}    
-function demo(string, times) {    
-  for (var i = 0; i < times; i++) {    
-    console.log(string);    
-  }    
-}    
-demo("hello, world!", 10);
-{% endhighlight %}{% endraw %}
-{% endhighlight %}
-
-...will come out looking like this:
-
-{% highlight javascript %}
-function demo(string, times) {
-  for (var i = 0; i < times; i++) {
-    console.log(string);
-  }
-}
-demo("hello, world!", 10);
-{% endhighlight %}
-
-Syntax highlighting is done using [highlight.js][highlight]. You can change the active theme in [head.html](https://github.com/bencentra/centrarium/blob/2dcd73d09e104c3798202b0e14c1db9fa6e77bc7/_includes/head.html#L15).
-
-### Blockquotes
-
-> "Blockquotes will be indented, italicized, and given a subdued light gray font. These are good for side comments not directly related to your content, or long quotations from external sources." - Some Smart Guy
-
-### Images
-
-Lightbox has been enabled for images. To create the link that'll launch the lightbox, add <code>data-lightbox</code> and <code>data-title</code> attributes to an <code>&lt;a&gt;</code> tag around your <code>&lt;img&gt;</code> tag. The result is:
-
-<a href="//bencentra.com/assets/images/falcon9_large.jpg" data-lightbox="falcon9-large" data-title="Check out the Falcon 9 from SpaceX">
-  <img src="//bencentra.com/assets/images/falcon9_small.jpg" title="Check out the Falcon 9 from SpaceX">
-</a>
-
-For more information, check out the [Lightbox][lightbox] website.
-
-### Tooltips
-
-With Tippy.js, you can add tooltips to your text with a little bit of HTML and JavaScript. First, create the tooltip trigger: `<span class="tooltip" id="someId">trigger</span>`. Then in a `<script>` tag at the bottom of your page, add some code to initialize the tooltip when the document is ready: `window.tooltips.push(['#someId', { content: "Content" }])`
-
-See the [Tippy.js docs](https://atomiks.github.io/tippyjs/) for additional configuration that you can provide for your tooltips.
-
-You can also use a Liquid `include` to import tooltip text or HTML from an external file: 
-
-```
-window.tooltips.push(['#someOtherId', { content: "{% raw %}{% include tooltips/example.html %}{% endraw %}" }])
-```
-
-To modify the styles for tooltip triggers, find the `.tooltip` class in `_layout.scss`.
-
-Here's an <span class="tooltip" id="someId">example tooltip</span>, and <span class="tooltip" id="someOtherId">here's another</span>.
-
-<br/>
-{% include page_divider.html %}
-
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+国内知名高校成绩优秀，有地理、遥感、水文等背景者优先考虑。欢迎感兴趣的同学来信交流；有意申请者请将详细简历发送至以下邮箱：ljia@env.dtu.dk
 
 [jekyll]:      http://jekyllrb.com
 [jekyll-gh]:   https://github.com/jekyll/jekyll
