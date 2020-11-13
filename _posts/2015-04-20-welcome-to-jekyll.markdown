@@ -18,14 +18,20 @@ cover:  "/assets/instacode.png"
 重点开展对地观测（Earth Observation, EO）在水文和水资源领域的理论和应用研究。主要应用卫星测高（altimetry）、卫星影像（imagery）、重力测量（gravimetry）等遥感数据，并结合水文模型/水动力模型等技术手段，开展地表水体（江、河、湖、库等）动态变化监测、分析、模拟和预报等。
 
 主要研究内容有以下：
+
 1）遥感卫星测高数据处理与应用.
 
 2) 基于UAV的河道形态/水文变量测量.
+
 3）无河道断面形态条件下的水动力模拟.
+
 4）资料稀缺地区，流域分类和模型参数化研究.
+
 5）基于多目标的水文、水动力模型校正。
 
+
 国内知名高校成绩优秀，有地理、遥感、水文等背景者优先考虑。欢迎感兴趣的同学来信交流；有意申请者请将详细简历发送至以下邮箱：ljia@env.dtu.dk
+
 
 [jekyll]:      http://jekyllrb.com
 [jekyll-gh]:   https://github.com/jekyll/jekyll
@@ -35,8 +41,3 @@ cover:  "/assets/instacode.png"
 [jekyll-archive]: https://github.com/jekyll/jekyll-archives
 [liquid]: https://github.com/Shopify/liquid/wiki/Liquid-for-Designers
 
-<script>
-window.tooltips = window.tooltips || []
-window.tooltips.push(['#someId', { content: "This is the text of the tooltip!" }])
-window.tooltips.push(['#someOtherId', { content: "{% include tooltips/example.html %}", placement: "right" }])
-</script>
