@@ -10,7 +10,7 @@ main_nav: true
 <hr>
 <h3>2021</h3>
 <ul>
-  <li>Cécile M. M. Kittel, <b>Liguang Jiang</b>, Christian Tøttrup, Peter Bauer-Gottwein. <font color="red">"Sentinel-3 radar altimetry for river monitoring – a catchment-scale evaluation of satellite water surface elevation from Sentinel-3A and Sentinel-3B"</font>. Hydrology & Earth System Sciences, <a href="https://hess.copernicus.org/articles/25/333/2021/">https://doi.org/10.5194/hess-25-333-2021</a>, 2021, 25(1). DOI: <a href="https://doi.org/10.5194/hess-25-333-2021">10.5194/hess-25-333-2021</a></li>
+  <li>Cécile M. M. Kittel, <b>Liguang Jiang</b>, Christian Tøttrup, Peter Bauer-Gottwein. <font color="red">"Sentinel-3 radar altimetry for river monitoring – a catchment-scale evaluation of satellite water surface elevation from Sentinel-3A and Sentinel-3B"</font>. <a href="https://hess.copernicus.org/articles/25/333/2021/"> Hydrology & Earth System Sciences</a>, 2021, 25(1). DOI: <a href="https://doi.org/10.5194/hess-25-333-2021">10.5194/hess-25-333-2021</a></li>
 </ul>
 
 <hr>
