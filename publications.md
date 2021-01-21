@@ -8,10 +8,15 @@ main_nav: true
 <p>Peer-reviewed articles (* indicating corresponding author)</p>
 
 <hr>
+<h3>2021</h3>
+<ul>
+  <li>Cécile M. M. Kittel, <b>Liguang Jiang</b>, Christian Tøttrup, Peter Bauer-Gottwein. <font color="red">"Sentinel-3 radar altimetry for river monitoring – a catchment-scale evaluation of satellite water surface elevation from Sentinel-3A and Sentinel-3B"</font>. Hydrology & Earth System Sciences, <a href="https://hess.copernicus.org/articles/25/333/2021/">https://doi.org/10.5194/hess-25-333-2021</a>, 2021, 25(1). DOI: <a href="https://doi.org/10.5194/hess-25-333-2021">10.5194/hess-25-333-2021</a></li>
+</ul>
+
+<hr>
 
 <h3>2020</h3>
 <ul>
-  <li>Cécile M. M. Kittel, <b>Liguang Jiang</b>, Christian Tøttrup, Peter Bauer-Gottwein. <font color="red">"Sentinel-3 radar altimetry for river monitoring – a catchment-scale evaluation of satellite water surface elevation from Sentinel-3A and Sentinel-3B"</font>. Hydrology & Earth System Sciences, <a href="https://doi.org/10.5194/hess-2020-165">https://doi.org/10.5194/hess-2020-165</a>, accepted, in production, 2020 </li>
   <li>Youjiang Shen, Dedi Liu, <b>Liguang Jiang</b>, Jiabo Yin, Karina Nielsen, Peter Bauer-Gottwein, Shenglian Guo, Jun Wang. <font color="red">"On the Contribution of Satellite Altimetry-Derived Water Surface Elevation to Hydrodynamic Model Calibration in the Han River"</font>. <a href="https://www.mdpi.com/2072-4292/12/24/4087">Remote Sensing</a>, 2020, 12(24), 4087. DOI: <a href="https://doi.org/10.3390/rs12244087">10.3390/rs12244087</a> </li>
   <li><b>Liguang Jiang*</b>, Karina Nielsen, Ole B. Andersen, Peter Bauer-Gottwein. <font color="red">"A Bigger Picture of how the Tibetan Lakes Have Changed Over the Past Decade Revealed by CryoSat‐2 Altimetry"</font>. <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020JD033161">Journal of Geophysical Research - Atmospheres</a>, 2020, 125(23). DOI: <a href="https://www.doi.org/10.1029/2020JD033161">10.1029/2020JD033161</a></li>
   <li>Xingxing Zhang, <b>Liguang Jiang*</b>, Cécile M. M. Kittel, Zhijun Yao, Karina Nielsen, Zhaofei Liu, Rui Wang, Jun Liu, Ole B. Andersen, Peter Bauer-Gottwein. <font color="red">"On the Performance of Sentinel‐3 Altimetry Over New Reservoirs: Approaches to Determine Onboard A Priori Elevation"</font>. <a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020GL088770">Geophysical Research Letters</a>, 2020,47(17). DOI: <a href="https://www.doi.org/10.1029/2020GL088770">10.1029/2020GL088770</a></li>
