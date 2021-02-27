@@ -74,6 +74,7 @@ main_nav: true
 <ul>
   <li>Jiang et al. (2020) "Evaluation of Sentinel-3 SRAL SAR altimetry over Chinese rivers". <b>Remote Sensing of Environment</b>.</li>
   <li>Zhang & Jiang et al. (2020) "On the Performance of Sentinel‐3 Altimetry Over New Reservoirs: Approaches to Determine Onboard A Priori Elevation". <b>Geophysical Research Letters</b>. </li>
+  <li>Kittel & Jiang et al. (2021) "Sentinel-3 radar altimetry for river monitoring – a catchment-scale evaluation of satellite water surface elevation from Sentinel-3A and Sentinel-3B". <b>Hydrology and Earth System Sciences</b></li>
 </ul>
 
 
