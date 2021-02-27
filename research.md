@@ -30,7 +30,7 @@ main_nav: true
 
 <hr>
 
-<h3 id="paragraph">Monitoring inland water</h3>
+<h3 id="paragraph">Inland water monitoring</h3>
   <img src="/assets/ChinaLake.png" alt="Water monitoring with CryoSat-2" style="width:653px;height:305px;">
 <ul>
   <li>Jiang et al. (2017) "CryoSat-2 radar altimetry for monitoring freshwater resources of China". <b>Remote Sensing of Environment</b>.</li>
