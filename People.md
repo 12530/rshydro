@@ -4,20 +4,6 @@ title: People
 permalink: /people/
 main_nav: true
 ---
-<--!
-<fieldset>
-  <p><b>Reserach focus</b></p>
-  <ul>
-    <li>Exploiting the observing capabilities of EO for hydrology</li>
-    <li>Modeling catchment hydrological processes under the changing environment</li>
-    <li>Monitoring regional/continental water resource variations</li>
-    <li>Advancing hydrologic/hydrodynamic modeling approaches</li>
-    <li>Simulating / forecasting river hydraulics</li>
-  </ul>
-</fieldset>
-
--->
-
 
 <style>
 * {
