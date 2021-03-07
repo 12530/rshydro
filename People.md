@@ -10,11 +10,11 @@ main_nav: true
   box-sizing: border-box;
 }
 
-/* Create two equal columns that floats next to each other */
+/* Create three equal columns that floats next to each other */
 .column {
   float: left;
   width: 50%;
-  padding: 10px;
+  padding: 0px;
   /*height: 300px;  Should be removed. Only for demonstration */
 }
 
