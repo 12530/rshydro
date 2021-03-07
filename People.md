@@ -30,8 +30,8 @@ main_nav: true
 <table cellspacing="2" cellpadding="2">
   <tr>
     <td><img src="/assets/Liguang.jpg" alt="姜丽光" style="width:144px;height:120px;float:left"> <b>Liguang Jiang</b> <br>Principal Investigator<br> Email: jianglg@sustech.edu.cn</td>
-    <td><img src="/assets/Yanan.png" alt="赵亚楠" style="width:95px;height:120px;float:left"> <b>Yanan Zhao</b> <br>Research Asistant</td>
-    <td><img src="/assets/Pengcheng.jpg" alt="胡鹏程" style="width:95px;height:120px;float:left"> <b>Pengcheng Hu</b> <br>Research Asistant</td>
+    <td><img src="/assets/Yanan.png" alt="赵亚楠" style="width:95px;height:120px;float:left"> <b>Yanan Zhao</b> <br>Research Assistant</td>
+    <td><img src="/assets/Pengcheng.jpg" alt="胡鹏程" style="width:95px;height:120px;float:left"> <b>Pengcheng Hu</b> <br>Research Assistant</td>
   </tr>
 
 </table>
