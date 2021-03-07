@@ -30,8 +30,8 @@ main_nav: true
 <table cellspacing="2" cellpadding="2">
   <tr>
     <td><img src="/assets/Liguang.jpg" style="width:144px;height:120px;"> <b>Liguang Jiang</b> <br>Principal Investigator<br> Email: jianglg@sustech.edu.cn</td>
-    <td><img align="left" src="/assets/header_image.jpg" alt="alti-mission" style="width:144px;height:120px;"> Division 2</td>
-    <td><img align="left" src="/assets/header_image.jpg" alt="alti-mission" style="width:144px;height:120px;"> Division 2</td>
+    <td><img align="center" src="/assets/Yanan.jpg" alt="alti-mission" style="width:100px;height:120px;"> <b>Yanan Zhao</b><br><Research Asistant></td>
+    <td><img align="center" src="/assets/Pengcheng.jpg" alt="alti-mission" style="width:100px;height:120px;"> <b>Pengcheng Hu</b><br><Research Asistant></td>
   </tr>
 
 </table>
