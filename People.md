@@ -39,7 +39,7 @@ main_nav: true
     <th>Liguang Jiang</th><th>Table Header 2</th>
   </tr>
   <tr>
-    <td><img src="/assets/Liguang.jpg" style="width:200px;height:300px;"> Liguang Jiang </td>
+    <td><img src="/assets/Liguang.jpg" style="width:100px;height:120px;"> Liguang Jiang </td>
     <td><img align="left" src="/assets/header_image.jpg" alt="alti-mission" style="width:200px;height:150px;"> Division 2</td>
   </tr>
   <tr class="even">
