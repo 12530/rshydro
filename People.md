@@ -29,9 +29,9 @@ main_nav: true
 
 <table cellspacing="2" cellpadding="2">
   <tr>
-    <td><img src="/assets/Liguang.jpg" style="width:144px;height:120px;"> <b>Liguang Jiang</b> <br>Principal Investigator<br> Email: jianglg@sustech.edu.cn</td>
-    <td><img align="center" src="/assets/Yanan.jpg" alt="alti-mission" style="width:100px;height:120px;"> <b>Yanan Zhao</b><br><Research Asistant></td>
-    <td><img align="center" src="/assets/Pengcheng.jpg" alt="alti-mission" style="width:100px;height:120px;"> <b>Pengcheng Hu</b><br><Research Asistant></td>
+    <td><img src="/assets/Liguang.jpg" alt="姜丽光" style="width:144px;height:120px;"> <b>Liguang Jiang</b> <br>Principal Investigator<br> Email: jianglg@sustech.edu.cn</td>
+    <td><img src="/assets/Yanan.jpg" alt="赵亚楠" style="width:95px;height:120px;"> <b>Yanan Zhao</b><br><Research Asistant></td>
+    <td><img src="/assets/Pengcheng.jpg" alt="胡鹏程" style="width:95px;height:120px;"> <b>Pengcheng Hu</b><br><Research Asistant></td>
   </tr>
 
 </table>
