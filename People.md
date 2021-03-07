@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Research
-permalink: /research/
+title: People
+permalink: /people/
 main_nav: true
 ---
 <fieldset>
