@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "招聘研究助理、博士后若干名"
-date:   2020-11-13
+date:   2021-03-02
 author: ljia
 categories: Enrollment
 tags:	Enrollment
