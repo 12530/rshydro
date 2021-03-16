@@ -31,7 +31,7 @@ main_nav: true
   <tr>
     <td><img src="/assets/Liguang.jpg" alt="姜丽光" style="width:110px;height:120px;"> <br><b>Liguang Jiang</b> <br>Principal Investigator<br>
     Email: <a href="mailto:jianglg@sustech.edu.cn">jianglg@sustech.edu.cn</a></td>
-    <td><img src="/assets/Yanan.png" alt="赵亚楠" style="width:95px;height:120px;"> <br><b>Yanan Zhao</b> <br>Research Assistant<br> Email:</td>
+    <td><img src="/assets/Yanan.png" alt="赵亚楠" style="width:95px;height:120px;"> <br><b>Yanan Zhao</b> <br>Research Assistant<br> Email:<a href="mailto:zhayn@mail.sustech.edu.cn">zhayn@mail.sustech.edu.cn</a></td>
     <td><img src="/assets/Pengcheng.jpg" alt="胡鹏程" style="width:90px;height:120px;"> <br><b>Pengcheng Hu</b> <br>Research Assistant<br> Email:</td>
   </tr>
 
