@@ -11,7 +11,7 @@ main_nav: true
 <h3>2021</h3>
 <ul>
   <li>International Altimetry Team incl. <b>Liguang Jiang</b>. <font color="red">"Altimetry for the future: Building on 25 years of progress"</font>. <a href="https://www.journals.elsevier.com/advances-in-space-research"> Advances in Space Research</a>, 2021, in press. DOI: <a href="https://doi.org/10.1016/j.asr.2021.01.022">10.1016/j.asr.2021.01.022</a></li>
-  <li>Shanshan Deng, Suxia Liu*, Xingguo Mo, <b>Liguang Jiang</b>, Peter Bauer-Gottwein. <font color="red">“Polar drift in the 1990s explained by terrestrial water storage changes”</font>. <a href="https://agupubs.onlinelibrary.wiley.com/journal/19448007">Geophysical Research Letters</a>, 2021, 48(7), DOI: <a href="https://doi.org/10.1029/2020GL092114">10.1029/2020GL092114</a></li>
+  <li>Shanshan Deng, Suxia Liu*, Xingguo Mo, <b>Liguang Jiang</b>, Peter Bauer-Gottwein. <font color="red">“Polar drift in the 1990s explained by terrestrial water storage changes”</font>. <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GL092114">Geophysical Research Letters</a>, 2021, 48(7), DOI: <a href="https://doi.org/10.1029/2020GL092114">10.1029/2020GL092114</a></li>
   <li>Cécile M. M. Kittel*, <b>Liguang Jiang</b>, Christian Tøttrup, Peter Bauer-Gottwein. <font color="red">"Sentinel-3 radar altimetry for river monitoring – a catchment-scale evaluation of satellite water surface elevation from Sentinel-3A and Sentinel-3B"</font>. <a href="https://hess.copernicus.org/articles/25/333/2021/"> Hydrology and Earth System Sciences</a>, 2021, 25(1). DOI: <a href="https://doi.org/10.5194/hess-25-333-2021">10.5194/hess-25-333-2021</a></li>
 </ul>
 
