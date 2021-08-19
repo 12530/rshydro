@@ -35,7 +35,7 @@ main_nav: true
 
   </tr>
   <tr>
-    /*<td align="left"><img src="/assets/Pengcheng.jpg" alt="胡鹏程" style="width:90px;height:120px;">  <br><b>Pengcheng Hu</b><br>MSc., Chinese Academy of Sciences <br>Research Assistant<br> Email:<a href="mailto:hupc@mail.sustech.edu.cn">hupc@mail.sustech.edu.cn</a></td>*/
+    /*<td align="left"><img src="/assets/Pengcheng.jpg" alt="胡鹏程" style="width:90px;height:120px;">  <br><b>Pengcheng Hu</b><br>MSc., Chinese Academy of Sciences <br>Research*/ /*Assistant<br> Email:<a href="mailto:hupc@mail.sustech.edu.cn">hupc@mail.sustech.edu.cn</a></td>*/
     <td align="left"><img src="/assets/Yuqiang.jpg" alt="余樯" style="width:85px;height:120px;">  <br><b>Qiang Yu</b><br>MSc., Wuhan University<br>Research Assistant<br> Email:<a href="mailto:yuq@mail.sustech.edu.cn">yuq@mail.sustech.edu.cn</a></td>
     <td align="left"><img src="/assets/Rongmiao.PNG" alt="徐荣苗" style="width:95px;height:120px;">  <br><b>Rongmiao Xu</b><br>BSc., SUSTech <br>2021 Master student<br> Email:<a href="mailto:11510123@mail.sustech.edu.cn">11510123@mail.sustech.edu.cn</a></td>
   </tr>
