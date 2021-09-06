@@ -5,7 +5,7 @@ permalink: /research/
 main_nav: true
 ---
 <fieldset>
-  <p><b>Reserach focus</b></p>
+  <p><b>Research focus</b></p>
   <ul>
     <li>Exploiting the observing capabilities of EO for hydrology</li>
     <li>Modeling catchment hydrological processes under the changing environment</li>
