@@ -8,7 +8,6 @@ tags:	Enrollment
 cover:  "/assets/Enrollment-web-header.png"
 ---
 
-## 招收2022级硕士生2名
 
 ### 南方科技大学环境学院 遥感水文学 课题组简介
 课题组由姜丽光助理教授负责。课题组负责人已发表SCI论文20余篇，其中一作/通讯共15篇，主要发表在Remote Sensing of Environment，Geophysical Research Letters，Hydrology and Earth System Sciences, Journal of Hydrology, Journal of Geophysical Research – Atmospheres 等，详细列表请参见 <a href="https://rshydro.org/publications/">Publications </a>。该课题组与丹麦技术大学（DTU）、丹麦水力学研究所（DHI）、丹麦空间研究所（DTU Space）、法国国家空间中心（CNES）、中科院地理所、武汉大学等国内外知名机构有广泛的合作。毕业后推荐前往海外深造。
@@ -27,7 +26,7 @@ cover:  "/assets/Enrollment-web-header.png"
 5）基于多目标的水文、水动力模型校正。
 
 
-国内知名高校成绩优秀，有地理、遥感、水文等背景者优先考虑。欢迎感兴趣的同学来信交流；有意申请者请将详细简历发送至以下邮箱：<jianglg@sustech.edu.cn>
+国内知名高校成绩优秀，有地理、遥感、水文等背景者优先考虑。欢迎感兴趣的同学来信交流,邮箱：<jianglg@sustech.edu.cn>
 
 
 [jekyll]:      http://jekyllrb.com
