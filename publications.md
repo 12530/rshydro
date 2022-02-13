@@ -11,7 +11,7 @@ main_nav: true
 <h3>2022</h3>
 <ul>
   <li>Youjiang Shen, Dedi Liu*, <b>Liguang Jiang</b>, Christian Tøttrup, Daniel Druce, Jiabo Yin, Karina Nielsen, Peter Bauer-Gottwein, Jun Wang, Xin Zhao. <font color="red">"Estimating Reservoir Release Using Multi-Source Satellite Datasets and Hydrological Modeling Techniques"</font>. <a href="https://www.mdpi.com/2072-4292/14/4/815">Remote Sensing</a>, 2022, 14(4), 815. DOI: <a href="https://doi.org/10.3390/rs14040815">10.3390/rs14040815</a> </li>
-  <li><b>Liguang Jiang*</b>, Jun Liu, Xingxing Zhang. <font color="red"> "Monitoring lakes and reservoirs based on satellite radar altimetry: theory, methods and progresses" 基于卫星雷达测高技术的湖库动态监测理论、方法和研究进展 </font> <a href="http://www.ygxb.ac.cn/thesisDetails#10.11834/jrs.20221221&lang=zh"> Natiaon Remote Sensing Bulletin (in Chinese, 遥感学报)</a>, 2022, 26(1). DOI: <a href="http://www.jors.cn/jrs/ch/reader/view_abstract.aspx?doi=10.11834/jrs.20211221">10.11834/jrs.20221221</a></li>
+  <li><b>Liguang Jiang*</b>, Jun Liu, Xingxing Zhang. <font color="red"> "Monitoring lakes and reservoirs based on satellite radar altimetry: theory, methods and progresses" 基于卫星雷达测高技术的湖库动态监测理论、方法和研究进展 </font> <a href="http://www.ygxb.ac.cn/thesisDetails#10.11834/jrs.20221221&lang=zh"> National Remote Sensing Bulletin (in Chinese, 遥感学报)</a>, 2022, 26(1). DOI: <a href="http://www.jors.cn/jrs/ch/reader/view_abstract.aspx?doi=10.11834/jrs.20211221">10.11834/jrs.20221221</a></li>
 </ul>
 
 <hr>
