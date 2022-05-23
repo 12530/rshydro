@@ -40,7 +40,7 @@ main_nav: true
   </tr>
   <tr>   
     <td align="left"><img src="/assets/zhiwei.jpg" alt="汪志伟" style="width:100px;height:120px;">  <br><b>Zhiwei Wang</b><br>BSc., Jiangxi University of Finance and Economics<br>2022 Master student<br> Email:<a href="mailto:wayne190430@163.com">wayne190430@163.com</a></td>
-    <td align="left"><img src="/assets/R-C.jpg" alt="YOU" style="width:129px;height:120px;">  </td>
+    <td align="left"><img src="/assets/R-C.jpg" alt="YOU" style="width:129px;height:120px;"> <br><b>           </b><br> </td>
   </tr>
 </table>
 
