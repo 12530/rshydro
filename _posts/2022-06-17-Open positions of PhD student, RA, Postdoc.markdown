@@ -87,6 +87,7 @@ cover:  "/assets/Enrollment-web-header.png"
 2、有强烈的科研探索热情，强大的自我驱动力和自制力；
 3、具备较好的统计分析、计算机编程能力、英文写作与交流能力；
 
+请感兴趣的同学将个人简介发至 jianglg@sustech.edu.cn邮箱，以“姓名+学校”为标题
 
 [jekyll]:      http://jekyllrb.com
 [jekyll-gh]:   https://github.com/jekyll/jekyll
