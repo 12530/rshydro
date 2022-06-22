@@ -10,6 +10,8 @@ main_nav: true
 <hr>
 <h3>2022</h3>
 <ul>
+  <li>M. Coppo Frias*, S. Liu, X. Mo, K. Nielsen, H. Randall, <b>L. Jiang</b>, J. Ma, and P. Bauer-Gottwein. <font color="red"> "River hydraulic modelling with ICEsat-2 land and water surface elevation" </font> <a href="https://doi.org/10.5194/egusphere-2022-377"> EGUsphere [preprint] </a></li> 
+  <li>Youjiang Shen, Dedi Liu*, <b>Liguang Jiang</b>, Karina Nielsen, Jiabo Yin, Jun Liu, and Peter Bauer-Gottwein. <font color="red"> "High-resolution water level and storage variation datasets for 338 reservoirs in China during 2010–2020" </font> <a href="https://doi.org/10.5194/essd-2021-470"> Earth Syst. Sci. Data Discuss. [preprint] </a></li> 
   <li>Youjiang Shen, Dedi Liu*, <b>Liguang Jiang</b>, Christian Tøttrup, Daniel Druce, Jiabo Yin, Karina Nielsen, Peter Bauer-Gottwein, Jun Wang, Xin Zhao. <font color="red">"Estimating Reservoir Release Using Multi-Source Satellite Datasets and Hydrological Modeling Techniques"</font>. <a href="https://www.mdpi.com/2072-4292/14/4/815">Remote Sensing</a>, 2022, 14(4), 815. DOI: <a href="https://doi.org/10.3390/rs14040815">10.3390/rs14040815</a> </li>
   <li><b>Liguang Jiang*</b>, Jun Liu, Xingxing Zhang. <font color="red"> "Monitoring lakes and reservoirs based on satellite radar altimetry: theory, methods and progresses" 基于卫星雷达测高技术的湖库动态监测理论、方法和研究进展 </font> <a href="http://www.ygxb.ac.cn/thesisDetails#10.11834/jrs.20221221&lang=zh"> National Remote Sensing Bulletin (in Chinese, 遥感学报)</a>, 2022, 26(1). DOI: <a href="http://www.jors.cn/jrs/ch/reader/view_abstract.aspx?doi=10.11834/jrs.20211221">10.11834/jrs.20221221</a></li>
 </ul>
