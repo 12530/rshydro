@@ -40,6 +40,9 @@ main_nav: true
   </tr>
   <tr>   
     <td align="left"><img src="/assets/zhiwei.jpg" alt="汪志伟" style="width:100px;height:120px;">  <br><b>Zhiwei Wang</b><br>BSc., Jiangxi University of Finance and Economics<br>2022 Master student<br> Email:<a href="mailto:wayne190430@163.com">wayne190430@163.com</a></td>
+    <td align="left"><img src="/assets/xinyu.jpg" alt="陈新宇" style="width:100px;height:120px;"> <br><b>Xinyu Chen</b><br>MSc., Hohai University<br>RA<br> Email:<a href="mailto:yuq@mail.sustech.edu.cn">chenxy7@mail.sustech.edu.cn</a></td>
+  </tr>
+  <tr>   
     <td align="left"><img src="/assets/R-C.jpg" alt="YOU" style="width:129px;height:120px;"> <br><b>           </b><br> </td>
   </tr>
 </table>
