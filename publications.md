@@ -8,8 +8,16 @@ main_nav: true
 <p>Peer-reviewed articles (* indicating corresponding author)</p>
 
 <hr>
+<h3>2023</h3>
+<ul>
+  <li>Xingxing Zhang,<b>Liguang Jiang*</b>, Zhaofei Liu*, Cecile MM Kittel, Zhijun Yao, Daniel Druce, Rui Wang, Christian Tøttrup, Jun Liu, Hou Jiang, Peter Bauer-Gottwein. <font color="red">"Science of the Total Environment Flow regime changes in the Lancang River , revealed by integrated modeling with multiple Earth observation datasets"</font>. <a href="[https://trader.copernicus.org/tools/paymentForm/paymentForm.php](https://www.sciencedirect.com/science/article/abs/pii/S0048969722077592?via%3Dihub)"> Science of the Total Environment</a>, 2023, 862, 160656. DOI: <a href="https://doi.org/10.1016/j.scitotenv.2022.160656">10.1016/j.scitotenv.2022.160656</a></li>
+  
+  <li>Xingxing Zhang,<b>Liguang Jiang*</b>, Zhaofei Liu*, Cecile MM Kittel, Zhijun Yao, Daniel Druce, Rui Wang, Christian Tøttrup, Jun Liu, Hou Jiang, Peter Bauer-Gottwein. <font color="red">"Science of the Total Environment Flow regime changes in the Lancang River , revealed by integrated modeling with multiple Earth observation datasets"</font>. <a href="[https://trader.copernicus.org/tools/paymentForm/paymentForm.php](https://www.sciencedirect.com/science/article/abs/pii/S0048969722077592?via%3Dihub)"> Science of the Total Environment</a>, 2023, 862, 160656. DOI: <a href="https://doi.org/10.1016/j.scitotenv.2022.160656">10.1016/j.scitotenv.2022.160656</a></li>
+</ul>
+
 <h3>2022</h3>
 <ul>
+  
   <li>Jun Liu*,<b>Liguang Jiang</b>, Monica Coppo Frias, Peter Bauer-Gottwein. <font color="red">"Discharge estimates with stage-fall-discharge rating curves and ICESat-2 altimetry at backwater-affected virtual stations"</font>. Submitted manuscript. DOI: <a href="https://doi.org/10.1002/essoar.10512270.1">10.1002/essoar.10512270.1</a></li> 
   <li>M. Coppo Frias*, S. Liu, X. Mo, K. Nielsen, H. Randall, <b>L. Jiang</b>, J. Ma, and P. Bauer-Gottwein. <font color="red"> "River hydraulic modelling with ICEsat-2 land and water surface elevation" </font> <a href="https://doi.org/10.5194/egusphere-2022-377"> EGUsphere [preprint] </a></li> 
   <li>Youjiang Shen, Dedi Liu*, <b>Liguang Jiang</b>, Karina Nielsen, Jiabo Yin, Jun Liu, and Peter Bauer-Gottwein. <font color="red"> "High-resolution water level and storage variation datasets for 338 reservoirs in China during 2010–2020" </font> <a href="https://doi.org/10.5194/essd-2021-470"> Earth Syst. Sci. Data Discuss. [preprint] </a></li> 
