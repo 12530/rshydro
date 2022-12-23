@@ -17,7 +17,7 @@ main_nav: true
 
 <h3>2022</h3>
 <ul>
-  
+  <li>Youjiang Shen, Dedi Liu*, <b>Liguang Jiang</b>, Karina Nielsen, Jiabo Yin, Jun Liu, and Peter Bauer-Gottwein. <font color="red"> "High-resolution water level and storage variation datasets for 338 reservoirs in China during 2010–2020" </font> <a href="https://essd.copernicus.org/articles/14/5671/2022/"> Earth Syst. Sci. Data </a>, 2022, 14, 5671–5694. DOI: <a href="https://doi.org/10.5194/essd-14-5671-2022">10.5194/essd-14-5671-2022</a></li>
   <li>Jun Liu*,<b>Liguang Jiang</b>, Monica Coppo Frias, Peter Bauer-Gottwein. <font color="red">"Discharge estimates with stage-fall-discharge rating curves and ICESat-2 altimetry at backwater-affected virtual stations"</font>. Submitted manuscript. DOI: <a href="https://doi.org/10.1002/essoar.10512270.1">10.1002/essoar.10512270.1</a></li> 
   <li>M. Coppo Frias*, S. Liu, X. Mo, K. Nielsen, H. Randall, <b>L. Jiang</b>, J. Ma, and P. Bauer-Gottwein. <font color="red"> "River hydraulic modelling with ICEsat-2 land and water surface elevation" </font> <a href="https://doi.org/10.5194/egusphere-2022-377"> EGUsphere [preprint] </a></li> 
   <li>Youjiang Shen, Dedi Liu*, <b>Liguang Jiang</b>, Karina Nielsen, Jiabo Yin, Jun Liu, and Peter Bauer-Gottwein. <font color="red"> "High-resolution water level and storage variation datasets for 338 reservoirs in China during 2010–2020" </font> <a href="https://doi.org/10.5194/essd-2021-470"> Earth Syst. Sci. Data Discuss. [preprint] </a></li> 
