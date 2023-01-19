@@ -10,9 +10,11 @@ main_nav: true
 <hr>
 <h3>2023</h3>
 <ul>
-  <li>Xin Zhao*,Kazuya Nishina*,Tomoko Kawaguchi Akitsu,<b>Liguang Jiang</b>, Yuji Masutomi, Kenlo Nishida Nasahara. <font color="red">"Feature-based algorithm for large-scale rice phenology detection based on satellite images"</font>. <a href="https://www.sciencedirect.com/science/article/pii/S0168192322004695?via%3Dihub"> Agricultural and Forest Meteorology</a>, 2023, 329, 109283. DOI: <a href="https://doi.org/10.1016/j.agrformet.2022.109283">10.1016/j.agrformet.2022.109283</a></li>
+  <li>Qiang Yu, <b>Liguang Jiang*</b>, Yanjun Wang, Junguo Liu. <font color="red">"Enhancing streamflow simulation using hybridized machine learning models in a semi-arid basin of the Chinese Loess Plateau"</font>. <a href="https://doi.org/10.1016/j.jhydrol.2023.129115"> Journal of Hydrology</a>, 2023, 617PC, 129115. DOI: <a href="https://doi.org/10.1016/j.jhydrol.2023.129115">10.1016/j.jhydrol.2023.129115</a></li>
   
-  <li>Xingxing Zhang,<b>Liguang Jiang*</b>, Zhaofei Liu*, Cecile MM Kittel, Zhijun Yao, Daniel Druce, Rui Wang, Christian Tøttrup, Jun Liu, Hou Jiang, Peter Bauer-Gottwein. <font color="red">"Flow regime changes in the Lancang River , revealed by integrated modeling with multiple Earth observation datasets"</font>. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0048969722077592?via%3Dihub"> Science of the Total Environment</a>, 2023, 862, 160656. DOI: <a href="https://doi.org/10.1016/j.scitotenv.2022.160656">10.1016/j.scitotenv.2022.160656</a></li>
+  <li>Xin Zhao*, Kazuya Nishina*, Tomoko Kawaguchi Akitsu,<b> Liguang Jiang</b>, Yuji Masutomi, Kenlo Nishida Nasahara. <font color="red">"Feature-based algorithm for large-scale rice phenology detection based on satellite images"</font>. <a href="https://www.sciencedirect.com/science/article/pii/S0168192322004695?via%3Dihub"> Agricultural and Forest Meteorology</a>, 2023, 329, 109283. DOI: <a href="https://doi.org/10.1016/j.agrformet.2022.109283">10.1016/j.agrformet.2022.109283</a></li>
+  
+  <li>Xingxing Zhang, <b>Liguang Jiang*</b>, Zhaofei Liu*, Cecile MM Kittel, Zhijun Yao, Daniel Druce, Rui Wang, Christian Tøttrup, Jun Liu, Hou Jiang, Peter Bauer-Gottwein. <font color="red">"Flow regime changes in the Lancang River , revealed by integrated modeling with multiple Earth observation datasets"</font>. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0048969722077592?via%3Dihub"> Science of the Total Environment</a>, 2023, 862, 160656. DOI: <a href="https://doi.org/10.1016/j.scitotenv.2022.160656">10.1016/j.scitotenv.2022.160656</a></li>
 </ul>
 
 <h3>2022</h3>
