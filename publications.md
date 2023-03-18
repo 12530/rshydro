@@ -10,6 +10,8 @@ main_nav: true
 <hr>
 <h3>2023</h3>
 <ul>
+  <li>Xinyu Chen, <b>Liguang Jiang*</b>, Yuning Luo, and Junguo Liu. <font color="red"> "A global streamflow indices time series dataset for large-sample hydrological analyses on streamflow regime (until 2021)" </font> <a href="https://essd.copernicus.org/preprints/essd-2023-49/"> Earth Syst. Sci. Data Discuss. [preprint] in review, 2023</a></li> 
+  
   <li>Jinghua Xiong, <b>Liguang Jiang</b>, Yuanlin Qiu, Sly Wongchuig, Abhishek, Shenglian Guo*, Jie Chen*. <font color="red"> "On the capabilities of the SWOT satellite to monitor the lake level change over the Third Pole" </font> <a href="https://iopscience.iop.org/article/10.1088/1748-9326/acbfd1"> Environmental Research Letters </a>, 2023, 18, 4, 044008. DOI: <a href="https://doi.org/10.1088/1748-9326/acbfd1">10.1088/1748-9326/acbfd1</a></li> 
 
   <li>M. Coppo Frias*, S. Liu, X. Mo, K. Nielsen, H. Randall, <b>L. Jiang</b>, J. Ma, and P. Bauer-Gottwein. <font color="red"> "River hydraulic modelling with ICEsat-2 land and water surface elevation" </font> <a href="https://hess.copernicus.org/articles/27/1011/2023/"> Hydrology and Earth System Sciences </a>, 2023, 27(5). DOI: <a href="https://doi.org/10.5194/10.5194/hess-27-1011-2023">10.5194/hess-27-1011-2023</a></li> 
