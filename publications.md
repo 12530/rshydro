@@ -10,6 +10,10 @@ main_nav: true
 <hr>
 <h3>2023</h3>
 <ul>
+  <li><b>Liguang Jiang*</b>, Karina Nielsen, Ole B. Andersen. <font color="red">"Improvements in mountain lake monitoring from satellite altimetry over the past 30 years – lessons learned from Tibetan lakes"</font>. <a href="https://www.sciencedirect.com/journal/remote-sensing-of-environment"> Remote Sensing of Environment</a>, 2023, 113702. DOI: <a href="https://doi.org/10.1016/j.rse.2023.113702">10.1016/j.rse.2023.113702</a></li>
+  
+  <li><b>Liguang Jiang*</b>, Yanan Zhao, Karina Nielsen, Ole B. Andersen, Peter Bauer-Gottwein. <font color="red">"Near real-time altimetry for river monitoring—a global assessment of Sentinel-3"</font>. <a href="https://iopscience.iop.org/article/10.1088/1748-9326/acdd16"> Environmental Research Letters</a>, 2023, 18(7). DOI: <a href="https://doi.org/10.1088/1748-9326/acdd16">10.1088/1748-9326/acdd16</a></li>
+  
   <li>Xinyu Chen, <b>Liguang Jiang*</b>, Yuning Luo, and Junguo Liu. <font color="red"> "A global streamflow indices time series dataset for large-sample hydrological analyses on streamflow regime (until 2021)" </font> <a href="https://essd.copernicus.org/preprints/essd-2023-49/"> Earth Syst. Sci. Data Discuss. [preprint] </a>in review, 2023</li> 
   
   <li>Jinghua Xiong, <b>Liguang Jiang</b>, Yuanlin Qiu, Sly Wongchuig, Abhishek, Shenglian Guo*, Jie Chen*. <font color="red"> "On the capabilities of the SWOT satellite to monitor the lake level change over the Third Pole" </font> <a href="https://iopscience.iop.org/article/10.1088/1748-9326/acbfd1"> Environmental Research Letters </a>, 2023, 18, 4, 044008. DOI: <a href="https://doi.org/10.1088/1748-9326/acbfd1">10.1088/1748-9326/acbfd1</a></li> 
